@@ -1,5 +1,4 @@
 package com.example.sony.sqldemo;
-
 import android.app.AlertDialog;
 import android.content.Context;
 import android.os.AsyncTask;
